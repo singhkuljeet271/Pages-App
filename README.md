@@ -1,2 +1,2 @@
-# Pages
-It is a  basic application ,in which we created multiple templates and used the concept of extending templates.
+#Pages-App
+It is a very simple Pages app with a Homepage and Aboutpage in it. After building this application I have added Tests to it and deployed it on Heroku.
